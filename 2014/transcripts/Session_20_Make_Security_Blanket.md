@@ -31,7 +31,7 @@ JEFF:  OTR.  Any other ones?
 JEFF:  Tor.
 
            >  Onion browser.
-JEFF:  Onion browser.  That was written by our own Mike Tigas.
+JEFF:  Onion browser.  That was written by our own Mike Tigas, who we totally poached thanks a lot Scott Klein.
 
 > And https?
 
